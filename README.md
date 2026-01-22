@@ -12,4 +12,4 @@ Sometimes you will get ratelimited, that is expected and will be logged.
 
 Download the popular tampermonkey extension "Bonk Commands"
 
-In the chat of a lobby, type "/eval overideSkin skin" here, replace skin with the json at the "avatar" part of each player. Just copy paste that avatar json and rejoin the lobby
+In the chat of a lobby, type "/eval overideSkin = skin" here, replace skin with the json at the "avatar" part of each player. Just copy paste that avatar json and rejoin the lobby
